@@ -1,3 +1,5 @@
+IBM 데분 과정 7 시각화 마지막 테스트 part2 - Create Dashboard using Plotly and Dash
+
 #!/usr/bin/env python
 # coding: utf-8
 
